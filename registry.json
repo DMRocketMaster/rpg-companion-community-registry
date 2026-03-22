@@ -243,5 +243,16 @@
     "github_repo": "DMRocketMaster/Eberron-forge-of-the-artificer",
     "repo_url": "https://DMRocketMaster.github.io/Eberron-forge-of-the-artificer/",
     "has_system": false
+  },
+  {
+    "name": "test-rep",
+    "description": "testing",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/test-rep",
+    "repo_url": "https://DMRocketMaster.github.io/test-rep/",
+    "has_system": false
   }
 ]
