@@ -254,5 +254,19 @@
     "github_repo": "DMRocketMaster/test-rep",
     "repo_url": "https://DMRocketMaster.github.io/test-rep/",
     "has_system": false
+  },
+  {
+    "name": "The-Delian-Tomb-5.5",
+    "description": "Everything you need to run The Delian Tomb in 5e '24 including encounter templates, goblin shaman and the Goblin Slayer Longsword.",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "one-shot",
+      "adventure"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/The-Delian-Tomb-5.5",
+    "repo_url": "https://DMRocketMaster.github.io/The-Delian-Tomb-5.5/",
+    "has_system": false
   }
 ]
