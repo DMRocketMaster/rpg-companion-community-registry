@@ -10,7 +10,7 @@
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 7
+    "stars": 8
   },
   {
     "id": "subclasses_2024",
@@ -25,6 +25,19 @@
     "stars": 0
   },
   {
+    "id": "RU-RPG-Companion-App",
+    "name": "RU-5e",
+    "description": "Translated 5e to russian language",
+    "tags": [
+      "fantasy",
+      "5e"
+    ],
+    "repo_url": "https://serfetto.github.io/RU-RPG-Companion-App/",
+    "github_repo": "Serfetto/RU-RPG-Companion-App",
+    "stars": 0,
+    "has_system": true
+  },
+  {
     "id": "5e2024HROF",
     "name": "5e 2024 Heroes of Faerûn Companion Data",
     "description": "Subclasses, feats, spells, and backgrounds from 5e 2024 Forgotten Realms: Heroes of Faerûn, formatted for use in the RPG companion app",
@@ -36,7 +49,7 @@
     ],
     "repo_url": "https://toothy-nineveth.github.io/5e2024HROF",
     "github_repo": "Toothy-Nineveth/5e2024HROF",
-    "stars": 2
+    "stars": 3
   },
   {
     "name": "5e-backup",
@@ -210,6 +223,18 @@
     "has_system": false
   },
   {
+    "name": "Zelda-Inspired-pack",
+    "description": "Races and items inspired by the legend of Zelda games.",
+    "tags": [
+      "5e",
+      "zelda"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Zelda-Inspired-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Zelda-Inspired-pack/",
+    "has_system": false
+  },
+  {
     "name": "Balanced-Homebrew-Subclasses",
     "description": "Includes balanced, fun homebrew subclasses by me for Warlocks (2), Monks (2), Fighters (1) and Druids (1)!",
     "tags": [
@@ -245,28 +270,188 @@
     "has_system": false
   },
   {
-    "name": "test-rep",
-    "description": "testing",
-    "tags": [
-      "5e"
-    ],
-    "stars": 0,
-    "github_repo": "DMRocketMaster/test-rep",
-    "repo_url": "https://DMRocketMaster.github.io/test-rep/",
-    "has_system": false
-  },
-  {
     "name": "The-Delian-Tomb-5.5",
     "description": "Everything you need to run The Delian Tomb in 5e '24 including encounter templates, goblin shaman and the Goblin Slayer Longsword.",
     "tags": [
       "5e2024",
       "homebrew",
-      "one-shot",
-      "adventure"
+      "one-shot"
     ],
     "stars": 0,
     "github_repo": "DMRocketMaster/The-Delian-Tomb-5.5",
     "repo_url": "https://DMRocketMaster.github.io/The-Delian-Tomb-5.5/",
+    "has_system": false
+  },
+  {
+    "name": "lantern-class",
+    "description": "DC Universe",
+    "tags": [
+      "5e",
+      "fantasy",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "collierfoxy60-collab/lantern-class",
+    "repo_url": "https://collierfoxy60-collab.github.io/lantern-class/",
+    "has_system": false
+  },
+  {
+    "name": "Battlezoo Ancestries Dragons+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 1,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Tome of Heros+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 1,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Book of Ebon Tides+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 1,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Grand Species Almanac+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 1,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Homblewood+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 1,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Myconid Race+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 1,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Valdas Spire of Secrets+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 1,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Obojima Players Core",
+    "description": "Obojima Corebook for players containing spells, races, backgrounds and background bound items, source tag and classes",
+    "tags": [
+      "5e",
+      "fantasy",
+      "zelda",
+      "ghibli"
+    ],
+    "stars": 1,
+    "github_repo": "AcidFoxAlpha/Obojima-core-set",
+    "repo_url": "https://AcidFoxAlpha.github.io/Obojima-core-set/",
+    "has_system": false
+  },
+  {
+    "name": "returner-system",
+    "description": "homebrew based on 5e and a book series ",
+    "tags": [
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "ValdousVirathor/returner-system",
+    "repo_url": "https://ValdousVirathor.github.io/returner-system/",
+    "has_system": false
+  },
+  {
+    "name": "shadowairs-dnd-things",
+    "description": "this is a mix of all of my homebrew i will post more in here when i make it i usualy run with the system from solo leveling but most of its info is in my discord server ",
+    "tags": [
+      "homebrew",
+      "one-piece",
+      "fantasy"
+    ],
+    "stars": 0,
+    "github_repo": "shad0wair-vanguard/shadowairs-dnd-things",
+    "repo_url": "https://shad0wair-vanguard.github.io/shadowairs-dnd-things/",
+    "has_system": false
+  },
+  {
+    "name": "Warlock-Dealer-subclass",
+    "description": "a Warlock subclass for those who want to test their luck and manipulate it just a little bit",
+    "tags": [
+      "homebrew",
+      "5e2024",
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "TheShrinch/Warlock-Dealer-subclass",
+    "repo_url": "https://TheShrinch.github.io/Warlock-Dealer-subclass/",
+    "has_system": false
+  },
+  {
+    "name": "Artificer-Class",
+    "description": "Port from class with custom subclases",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Hezenael/Artificer-Class",
+    "repo_url": "https://Hezenael.github.io/Artificer-Class/",
+    "has_system": false
+  },
+  {
+    "name": "Villain-Unearthed-Arcana",
+    "description": "4 Subclasses Cleric, Druid, Fighter, Sorcerer",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "lonestranger81/Villain-Unearthed-Arcana",
+    "repo_url": "https://lonestranger81.github.io/Villain-Unearthed-Arcana/",
     "has_system": false
   }
 ]
