@@ -466,5 +466,18 @@
     "github_repo": "DMRocketMaster/Phandelver-and-below-the-shattered-obelisk",
     "repo_url": "https://DMRocketMaster.github.io/Phandelver-and-below-the-shattered-obelisk/",
     "has_system": false
+  },
+  {
+    "name": "Phandelver-and-below-the-shattered-obelisk-5.5",
+    "description": "Everything from Phandelver so that you can run a successful campaign, on 5.5 e",
+    "tags": [
+      "5e2024",
+      "pabtso",
+      "lmop"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/Phandelver-and-below-the-shattered-obelisk-5.5",
+    "repo_url": "https://DMRocketMaster.github.io/Phandelver-and-below-the-shattered-obelisk-5.5/",
+    "has_system": false
   }
 ]
