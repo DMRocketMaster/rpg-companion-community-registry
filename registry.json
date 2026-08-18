@@ -453,5 +453,18 @@
     "github_repo": "lonestranger81/Villain-Unearthed-Arcana",
     "repo_url": "https://lonestranger81.github.io/Villain-Unearthed-Arcana/",
     "has_system": false
+  },
+  {
+    "name": "Phandelver-and-below-the-shattered-obelisk",
+    "description": "Everything from Phandelver so you can run a successful campagin",
+    "tags": [
+      "5e",
+      "pabtso",
+      "lmop"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/Phandelver-and-below-the-shattered-obelisk",
+    "repo_url": "https://DMRocketMaster.github.io/Phandelver-and-below-the-shattered-obelisk/",
+    "has_system": false
   }
 ]
