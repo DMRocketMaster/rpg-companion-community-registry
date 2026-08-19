@@ -2159,5 +2159,18 @@
     "github_repo": "DMRocketMaster/forgotten-realms-heroes-of-faerun",
     "repo_url": "https://DMRocketMaster.github.io/forgotten-realms-heroes-of-faerun/",
     "has_system": false
+  },
+  {
+    "name": "Ravenloft-the-Horrors-Within",
+    "description": "Everything from Ravenloft",
+    "tags": [
+      "5e2024",
+      "rhw",
+      "vampire"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/Ravenloft-the-Horrors-Within",
+    "repo_url": "https://DMRocketMaster.github.io/Ravenloft-the-Horrors-Within/",
+    "has_system": false
   }
 ]
