@@ -2135,5 +2135,17 @@
     "github_repo": "DMRocketMaster/astarions-book-of-hungers",
     "repo_url": "https://DMRocketMaster.github.io/astarions-book-of-hungers/",
     "has_system": false
+  },
+  {
+    "name": "lorwyn-first-light",
+    "description": "Everything from Lorwyn",
+    "tags": [
+      "5e2024",
+      "lfl"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/lorwyn-first-light",
+    "repo_url": "https://DMRocketMaster.github.io/lorwyn-first-light/",
+    "has_system": false
   }
 ]
