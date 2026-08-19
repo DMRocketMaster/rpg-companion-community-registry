@@ -2123,5 +2123,17 @@
     "github_repo": "DMRocketMaster/Phandelver-and-below-the-shattered-obelisk-5.5",
     "repo_url": "https://DMRocketMaster.github.io/Phandelver-and-below-the-shattered-obelisk-5.5/",
     "has_system": false
+  },
+  {
+    "name": "astarions-book-of-hungers",
+    "description": "Everything from the book of hungers",
+    "tags": [
+      "5e2024",
+      "abh"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/astarions-book-of-hungers",
+    "repo_url": "https://DMRocketMaster.github.io/astarions-book-of-hungers/",
+    "has_system": false
   }
 ]
